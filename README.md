@@ -1,3 +1,5 @@
+<!-- # Test early releases for Update 8 on the [Discord](http://discord.gg/zqp6U7Y7Nu)! -->
+
 # PowerSuit Logistic Modules
 
 ![ModulesScreenshot](https://i.imgur.com/wMzIAYp.png)
@@ -26,6 +28,12 @@ Please leave suggestions and report issues either on the [Nog's Mods Discord](ht
 Feedback on the current balance, performance issues, and your thoughts on the mod in general would be greatly appreciated. The [Discord](http://discord.gg/zqp6U7Y7Nu) is the best place to reach us.
 
 This mod has been tested in singleplayer, but limited testing has been done in multiplayer. However, **numerous users have reported no problems in multiplayer**, so I suggest you give it a shot. A few bugs probably remain, but you may not notice them.
+
+## Mod Incompatibilities
+
+If you try to use these mods at the same time as this mod, something will not work as expected.
+
+- [Stack Overflow](https://ficsit.app/mod/StackOverload) can prevent the Subscribe, Disperese, and Pocket Dimension modules from working correctly.
 
 ## Modules on Offer
 
@@ -92,5 +100,5 @@ The further away the item is, the more power the module consumes, and the longer
 ## Mod Compatibility
 
 - Any mod that deletes building clearances could break this mod, as it searches for Clearances to locate buildings to interact with
-- The **Logistic Build** module is compatible with [Smart!](https://ficsit.app/mod/5yGWmmB8KL2Zq8)
+- The **Logistic Build** module is compatible with [Infinite Zoop](https://ficsit.app/mod/InfiniteZoop) and [Smart!](https://ficsit.app/mod/SmartFoundations)
 - The **Subscribe**, **Disperse**, and **Request** modules should be compatible with any modded building that has an inventory component that uses the buildable storage inventory component interface. Mod developers, contact us for more info.

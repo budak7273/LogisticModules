@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.1",
-	"SemVersion": "1.0.1",
+	"VersionName": "1.1.0",
+	"SemVersion": "1.1.0",
 	"FriendlyName": "PowerSuit Logistic Modules",
 	"Description": "Automatically keep your inventory stocked from the containers around you, request items, and more!",
 	"Category": "Modding",
@@ -25,12 +25,12 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.4.0",
+			"SemVersion": "^3.5.1",
 			"Enabled": true
 		},
 		{
 			"Name": "ArmorModules",
-			"SemVersion": "^4.0.0",
+			"SemVersion": "^4.2.0",
 			"Enabled": true
 		}
 	]
