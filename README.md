@@ -68,6 +68,8 @@ The further away the item is, the more power the module consumes, and the longer
   - When you are above this amount, the excess items will be sent out to valid containers in range.
   - Valid container targets are ones that already have some of that item, or have filters set via the [Inventory Filters](https://ficsit.app/mod/2gWLoXR9Rrqtvh) mod
   - You can import/export settings for the module from your computer's clipboard.
+  - Press a keybind to send whatever inventory stack you're hovering over out to storage
+    - [Video demo here](https://streamable.com/5osovj)
 - **Logistic Requester Module**
   - Long range, normal transfer speed
   - Request specific items to be delivered to you from containers in range. You can favorite frequently used requests.
